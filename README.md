@@ -3,3 +3,5 @@ This minimalist todo app was created using the designs from https://x.com/thebtj
 <br>
 Original post: https://x.com/thebtjackson/status/1881325871304421532
 
+## Run using:
+```npm run dev```
